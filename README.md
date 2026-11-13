@@ -2,12 +2,12 @@
 
 ## 👨‍💻 Rodrigo Guedes <img align="center" alt="Guedes-Js" height="30" width="40" src="https://icongr.am/clarity/accessibility-1.svg?size=128&color=ffffff">
 
-**`Desenvolvedor Front end`**
+**`Desenvolvedor Backend`**
 
-Me chamo Rodrigo Guedes, tenho 40 anos e sou natural de São Paulo. Concluí o ensino médio no Colegio Objetivo, com o curso técnico em informática. Conclui a Graduação em Sistema da Informação na Universidade Cidade São Paulo.
+Me chamo Rodrigo Guedes, tenho 42 anos e sou natural de São Paulo. Concluí o ensino médio no Colegio Objetivo, com o curso técnico em informática. Conclui a Graduação em Sistema da Informação na Universidade Cidade São Paulo.
 
-- 💻 Hoje Trabalho como Engenheiro de Sistema Jr. no Itaú.
-- 📚 Estudando Python e AWS.
+- 💻 Hoje Trabalho como Engenheiro de Sistema Jr. no Mercado Livre.
+- 📚 Estudando Python, Go, Java e AWS.
 
 ---
 
